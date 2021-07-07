@@ -1,3 +1,6 @@
+//If arr={2,1,0} and str={a,b,c}
+//output={c,b,a}
+
 #include <bits/stdc++.h>
 using namespace std;
 void shuffle(int arr1[], char arr2[], int n)
