@@ -1,3 +1,5 @@
+//Find sum of xor of all subsets of arr
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
