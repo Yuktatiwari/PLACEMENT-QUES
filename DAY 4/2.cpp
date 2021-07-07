@@ -1,3 +1,4 @@
+//Find sum of all min(ai,bi) which is maximized
 #include <bits/stdc++.h>
 using namespace std;
 int main()
