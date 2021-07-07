@@ -1,3 +1,5 @@
+//Find the number which is minimum in its row ans maximum in its column.
+
 #include <bits/stdc++.h>
 using namespace std;
 
