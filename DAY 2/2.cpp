@@ -1,3 +1,5 @@
+//Find the Intersection of two arrays
+
 #include <bits/stdc++.h>
 using namespace std;
 void findIntersection(int arr1[], int arr2[], int m, int n)
