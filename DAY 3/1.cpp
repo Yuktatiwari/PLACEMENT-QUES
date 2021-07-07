@@ -1,3 +1,4 @@
+//Find total no of smallest elements then arr[i]
 #include<bits/stdc++.h>
 using namespace std;
 void findSmallElements(int arr[],int n){
