@@ -1,4 +1,4 @@
-//Transpose of a matrix
+//Check whether the matrix is special or not.Special if all possible diagonals form top left and bottom right are having same elements..
 
 #include <bits/stdc++.h>
 using namespace std;
