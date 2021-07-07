@@ -1,3 +1,5 @@
+//Given array is encoded find the edecoded array
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
