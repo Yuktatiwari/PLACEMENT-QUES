@@ -1,3 +1,7 @@
+//arr={-2,0,3,-5,2,-1}
+//range={0-2,2-5,0-5}
+//find the sum of elements according to the ranges given
+//output={1,-1,3}
 #include <bits/stdc++.h>
 using namespace std;
 int sumRange(int arr[], int x, int y)
