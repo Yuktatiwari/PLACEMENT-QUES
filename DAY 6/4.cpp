@@ -1,4 +1,4 @@
-//Transpose of a matrix
+//Reverse the matrix then flip the numbers.(0->1,1->0)
 
 #include <bits/stdc++.h>
 using namespace std;
